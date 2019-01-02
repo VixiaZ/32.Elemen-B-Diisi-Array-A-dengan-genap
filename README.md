@@ -1,0 +1,1 @@
+# 32.Elemen-B-Diisi-Array-A-dengan-genap
